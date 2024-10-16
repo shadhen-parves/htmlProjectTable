@@ -1,18 +1,16 @@
 
-h1{
-    color: crimson;
-    font-size: 25px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: 600;
+table{
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    
 }
-p{
-    color: green;
-    text-align: right;
-    margin-top: -15px;
+th,.black{
+    background-color: rgb(14, 55, 177);
+    color: white;
 }
-.header{
-    background-color:burlywood;
-   border: 2px solid goldenrod;
-  box-shadow: 3px 3px 3px lightblue;
+tr,th,td{
+    padding: 5px;
+
 }
+
